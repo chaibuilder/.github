@@ -1,6 +1,6 @@
 ## Chai Builder
 
-### Low Code Visual Builder for React + Tailwind CSS
+### Low Code Visual Builder for Web & Emails
 
 Chai Builder is an Open Source Low Code React + Tailwind CSS Visual Builder. Its a simple React component which can be integrated into any React based framework.
 
